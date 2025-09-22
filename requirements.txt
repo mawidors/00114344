@@ -43,9 +43,9 @@ jmespath==1.0.1
     #   botocore
 jsonschema==4.17.3
     # via lucid-connection-definitions
-lucid-connection-definitions==0.1.11
+#lucid-connection-definitions==0.1.11
     # via -r requirements.in
-lucid-core==6.0.4
+#lucid-core==6.0.4
     # via
     #   -r requirements.in
     #   lucid-connection-definitions
