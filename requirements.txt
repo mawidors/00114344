@@ -11,7 +11,7 @@ charset-normalizer==3.4.3
 cryptography==45.0.7
 datadog==0.52.1
 ddsketch==3.0.1
-ddtrace==1.20.19
+ddtrace==1.20.19; platform_system == "LinuxCPython"
 envier==0.6.1
 humanfriendly==10.0
 idna==3.10
